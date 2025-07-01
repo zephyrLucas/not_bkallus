@@ -3,16 +3,16 @@ from random import randint as ri
 choice = ri(0, 12)
 
 if choice <= 5:
-    motd = 'Welcome BOUSS.'
+    motd = 'Hello'
 elif choice <= 7:
-    motd = 'HACKER_MODE status:: INITIATED.'
+    motd = 'Hello'
 elif choice == 8:
-    motd = 'Julia loves you!'
+    motd = 'Hello'
 elif choice <= 10:
-    motd = 'Enjoy your computing session, INSERT_NAME_HERE.'
+    motd = 'Hello'
 elif choice == 11:
-    motd = '\%jlaeiafie7&hfealblqwo**)9rf#ERROR89&626)(dwoa^'
+    motd = 'Connection Failed.'
 elif choice == 12:
-    motd = "I think I'm starting to feel..."
+    motd = "Hello"
 
 print(motd)
