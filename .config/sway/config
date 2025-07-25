@@ -39,7 +39,7 @@ exec swayidle -w \
 bindsym $mod+Shift+Return exec alacritty
 bindsym $mod+Shift+s      exec alacritty -e nvim
 bindsym $mod+Shift+w      exec librewolf || firefox 2>/dev/null
-bindsym $mod+Shift+p      exec librewolf --pivate-window
+bindsym $mod+Shift+p      exec librewolf --private-window
 bindsym $mod+Shift+tab    exec swaylock -f -c 000000
 bindsym $mod+p            exec bemenu-run --line-height 24
 
