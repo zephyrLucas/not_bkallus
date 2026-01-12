@@ -1,1 +1,8 @@
 nvim alacritty sway xorg-xwayland swayidle swaybg swaylock udisks2
+
+For internet:
+$ iwctl
+$ station list
+$ station [DEVICE] get-networks
+$ station [DEVICE] connect [NETWORK]
+$ exit
