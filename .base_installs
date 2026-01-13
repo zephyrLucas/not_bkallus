@@ -1,4 +1,4 @@
-nvim alacritty sway xorg-xwayland swayidle swaybg swaylock udisks2
+git nvim alacritty sway xorg-xwayland swayidle swaybg swaylock udisks2 less zsh zsh-syntax-highlighting zsh-autosuggestions
 
 For internet:
 $ iwctl
@@ -6,3 +6,6 @@ $ station list
 $ station [DEVICE] get-networks
 $ station [DEVICE] connect [NETWORK]
 $ exit
+
+To update shell:
+chsh -s $(which zsh)
