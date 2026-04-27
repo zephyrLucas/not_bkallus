@@ -1,4 +1,4 @@
-git nvim alacritty sway xorg-xwayland swayidle swaybg swaylock udisks2 less zsh zsh-syntax-highlighting zsh-autosuggestions
+git nvim alacritty sway xorg-xwayland swayidle swaybg swaylock udisks2 less zsh zsh-syntax-highlighting zsh-autosuggestions waybar which openssh
 
 For internet:
 $ iwctl
